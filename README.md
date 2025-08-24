@@ -57,7 +57,7 @@ cat help
 ## Useful Links
 
 - [X-ray Core project on GitHub](https://github.com/XTLS/Xray-core)  
-- [Official documentation in Russian](https://xtls.github.io/ru/)  
+- [Official documentation](https://xtls.github.io/en/)  
 
 ---
 
