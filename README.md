@@ -105,3 +105,11 @@ rm /usr/local/bin/newuser
 rm /usr/local/bin/rmuser
 rm /usr/local/bin/sharelink
 ```
+
+Configuration file path:
+
+    /usr/local/etc/xray/config.json
+
+Xray restart command:
+
+    systemctl restart xray
